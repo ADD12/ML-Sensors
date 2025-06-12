@@ -10,8 +10,6 @@ The ML sensor datasheet, as outlined in "Datasheets for Machine Learning Sensors
 
 The items listed within the proposed datasheet include but are not limited to: environmental impact, communication protocol, device diagrams, dataset attributes, model characteristics, end-to-end performance analysis, compliance and certifications, and hardware specifications. Including these details in an easy-to-digest datasheet provides many benefits as it provides transparency, explainability, and auditability. The ML sensor paradigm itself provides added privacy, security, and user-friendliness, which empowers end-users to more easily control their data, as well as for developers to more easily integrate ML capabilities into sensing devices without requiring ML expertise.
 
-The proposed structure of the ML sensor datasheet is shown below.
+The proposed structure of the ML sensor datasheet is shown below and a full example datasheet for a person detection ML sensor is provided for an [open-source](https://github.com/harvard-edge/ML-Sensors/blob/main/open_source_datasheet_updated.pdf) and [commerical](https://github.com/harvard-edge/ML-Sensors/blob/main/commercial_datasheet_updated.pdf) device.
 
 ![datasheet](https://github.com/harvard-edge/ML-Sensors/blob/main/figs/datasheet_template.png)
-
-A full example datasheet for a person detection ML sensor is provided for an [open-source](https://github.com/harvard-edge/ML-Sensors/blob/main/open_source_datasheet_updated.pdf) and [commerical](https://github.com/harvard-edge/ML-Sensors/blob/main/commercial_datasheet_updated.pdf) device.
