@@ -1,5 +1,5 @@
 # Machine Learning Sensors
-This repository contains resources related to the machine learning (ML) sensor datasheet. The ML sensor is a new paradigm for edge devices which segregates the sensor input data and ML processing from the wider system at the hardware level while providing a thin interface that mimics traditional sensors in functionality. An in-depth description of ML sensors is provided [here](https://arxiv.org/abs/2206.03266).
+This repository contains resources related to the machine learning (ML) sensor datasheet. The ML sensor is a new paradigm for edge devices which segregates the sensor input data and ML processing from the wider system at the hardware level while providing a thin interface that mimics traditional sensors in functionality. You can learn more about ML sensors on our website: [mlsensors.org](https://mlsensors.org/).
 
 ![ML_sensor](https://github.com/harvard-edge/ML-Sensors/blob/main/figs/mlsensor.png)
 
@@ -14,4 +14,4 @@ The proposed structure of the ML sensor datasheet is shown below.
 
 ![datasheet](https://github.com/harvard-edge/ML-Sensors/blob/main/figs/datasheet_template.png)
 
-A full example datasheet for a person detection ML sensor is provided [here](https://github.com/harvard-edge/ML-Sensors/blob/main/open_source_datasheet.pdf).
+A full example datasheet for a person detection ML sensor is provided for an [open-source](https://github.com/harvard-edge/ML-Sensors/blob/main/open_source_datasheet_redacted.pdf) and [commerical](https://github.com/harvard-edge/ML-Sensors/blob/main/commercial_datasheet_redacted.pdf) device.
